@@ -1,4 +1,4 @@
-# Simple Todo Applocation made with React (Beginner)
+Simple Todo Applocation made with React (For Beginner)
 
 # Getting Started with Create React App
 
